@@ -6,6 +6,8 @@ This is my submission to the [Perdoo Code Challenge](https://www.notion.so/Full-
 
 I tried to keep things simple and focus on the main requirements of the challenge in order to stay within the 3-4 hours suggested.
 
+I would be happy to discuss the project with you and get your feedback.
+
 ### 📈 Improvements:
 
 In a real project, we could consider the following improvements:
